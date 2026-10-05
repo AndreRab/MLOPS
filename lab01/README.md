@@ -1,4 +1,4 @@
-# Lab 1 - MLOps introduction
+# Lab 1 - MLOps introduction (edited README)
 
 This lab introduces you to basic MLOps tools and local model serving. We will
 go over modern Python and DevOps tools and their usage in MLOps. This will cover
