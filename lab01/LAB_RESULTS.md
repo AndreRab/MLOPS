@@ -59,3 +59,21 @@ APP_NAME:  my_app
 ENVIRONMENT:  dev
 FAKE_KEY:  FAKE_KEY
 ```
+
+## TASK 6
+Test results:
+```
+(lab01) (base) manoftheprincess@Andreis-MacBook-Air lab01 % uv run pytest tests -rP
+===================================================== test session starts =====================================================
+platform darwin -- Python 3.12.13, pytest-9.1.1, pluggy-1.6.0
+rootdir: /Users/manoftheprincess/Helloworld/Uni/agh/sem2/MLOps_course_AGH/lab01
+configfile: pyproject.toml
+plugins: platformdirs-4.12.3, dotenv-0.5.2, anyio-4.15.1
+collected 2 items                                                                                                             
+
+tests/test_app.py ..                                                                                                    [100%]
+
+=========================================================== PASSES ============================================================
+====================================================== 2 passed in 0.13s ======================================================
+
+```
