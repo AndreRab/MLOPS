@@ -77,3 +77,21 @@ tests/test_app.py ..                                                            
 ====================================================== 2 passed in 0.13s ======================================================
 
 ```
+
+## TASK 8
+swagger predict function calling:
+![alt text](images/image.png)
+
+## TASK 9
+Check docker images:
+```
+(lab01) (base) manoftheprincess@Andreis-MacBook-Air lab01 % docker images
+REPOSITORY                      TAG               IMAGE ID       CREATED          SIZE
+ml-app                          latest            d967666d2370   32 seconds ago   995MB
+```
+Check docker runing:
+![alt text](images/image-1.png)
+
+Check docker start with the help of docker-compose
+![](images/image-2.png)
+## The rest artifacts of task solution can be seen in commit history 
