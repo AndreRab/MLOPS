@@ -1,1 +1,7 @@
 milvus_db/volumes/*
+/data/abo/
+/images/abo-images-small.tar
+/images/small/
+/images/metadata/
+.DS_Store
+*/.DS_Store
